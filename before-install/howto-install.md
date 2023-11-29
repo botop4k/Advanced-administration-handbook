@@ -1,3 +1,5 @@
+![20230930_162219_0000](https://github.com/WordPress/Advanced-administration-handbook/assets/136876699/41ce8009-cf35-4bfc-baf7-859128d7a7ed)
+![20230930_162247_0000](https://github.com/WordPress/Advanced-administration-handbook/assets/136876699/00690ffa-015d-4797-94ee-7aa59620633c)
 # How to install WordPress
 
 WordPress is well-known for its ease of installation. Under most circumstances, installing WordPress is a very simple process and takes less than five minutes to complete. [Many web hosts](#) now offer [tools (e.g. Fantastico) to automatically install WordPress](https://wordpress.org/documentation/article/automated-installation/) for you. However, if you wish to install WordPress yourself, the following guide will help.
